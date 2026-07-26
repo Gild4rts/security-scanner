@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de configuración con credenciales/claves
+.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Salida del reporte (opcional, para no contaminar el repo)
+reporte_seguridad.html
